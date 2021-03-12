@@ -18,7 +18,7 @@
 
 <div align=center>
 
-#####  👉 [구글 드라이브](https://github.com/OtterBK/Parkour/tree/master/out/artifacts/Parkour)
+#####  👉 [다운로드](https://github.com/OtterBK/Parkour/tree/master/classes/artifacts/Parkour)
 
 </div>
 
